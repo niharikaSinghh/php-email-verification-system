@@ -113,7 +113,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/devkashish/php-email-verification-system.git
+   https://github.com/niharikaSinghh/php-email-verification-system.git
    cd php-email-verification-system/src
    ```
 
@@ -195,3 +195,4 @@ This project is open source and available under the MIT License.
 ---
 
 **Built with ❤️ using PHP and XKCD API**
+
